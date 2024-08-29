@@ -69,7 +69,7 @@ mavenPublishing {
   mavenConfig {
     groupId = "io.github.cloak-box.library"
     artifactId = "calc"
-    version = "1.0.0"
+    version = "1.0.1"
     publishJavadocJar = false
     poublicSourcesJar = false
     mavenRepo = "release"
